@@ -1,0 +1,4002 @@
+{
+    "hom_231": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_188": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1682": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_787": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_979": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_348": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_714": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_393": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_531": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_587": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_554": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_872": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_547": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_780": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_434": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_630": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_555": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_451": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_588": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_374": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1926": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1442": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1042": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1056": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1351": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_2116": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_1906": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1013": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1345": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_847": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_402": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_100": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1628": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_383": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1807": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_206": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_1006": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_1171": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_395": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_500": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_2150": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1969": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1796": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_23": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_855": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1990": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_202": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1942": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_2209": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1970": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_2237": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_323": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_14": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1008": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_88": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_2160": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_2076": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1236": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1066": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1940": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_96": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_406": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_870": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_345": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1441": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_109": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_7": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1737": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1381": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1377": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_619": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1397": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_778": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_2083": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_568": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 1
+        }
+    },
+    "hom_914": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1486": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_234": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_582": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1107": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1720": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1558": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_83": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1983": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1941": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1215": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_646": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1870": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_727": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_2200": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1825": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_135": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "hom_179": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_2081": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_771": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_655": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1433": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1450": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_1726": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_9": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "hom_473": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1228": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 1
+        }
+    },
+    "het_1201": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_708": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_250": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_159": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1336": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1640": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 1
+        }
+    },
+    "het_1144": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1112": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_216": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1755": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1029": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1254": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_934": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1763": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_872": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1707": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_39": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_388": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_793": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_354": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_69": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1726": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_662": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1466": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1193": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1180": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_408": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1693": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_410": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 1
+        }
+    },
+    "het_1711": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1629": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1340": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1070": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1260": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_417": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_656": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1054": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1329": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_51": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_94": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_292": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_751": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_905": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1090": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1654": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1637": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_459": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_978": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_822": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_386": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 1
+        }
+    },
+    "het_990": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_305": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_754": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_428": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_387": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1194": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1486": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1050": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_501": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_458": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_810": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_64": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 1
+        }
+    },
+    "het_434": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1316": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_25": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_77": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 1
+        }
+    },
+    "het_58": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_369": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1442": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_698": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_589": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_848": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_769": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_783": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1032": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1160": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_306": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1427": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_791": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_268": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1195": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_247": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_617": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_363": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1027": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1078": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_900": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1450": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1608": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1016": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_573": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_1301": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_619": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1089": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    },
+    "het_100": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1428": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_1057": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 0
+        }
+    },
+    "het_689": {
+        "human_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "human_eval human_vs_gpt-4-1106-preview": {
+            "winner": 2
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106 swap": {
+            "winner": 1
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+            "winner": 0
+        },
+        "gpt-4-0613_eval human_vs_gpt-4-1106-preview swap": {
+            "winner": 2
+        }
+    }
+}

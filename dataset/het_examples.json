@@ -1,0 +1,202 @@
+{
+    "het_633": {
+        "pun_word": "sagely",
+        "pun_sense_key": "sagely%4:02:00::",
+        "pun_sense": "in a wise manner",
+        "alter_word": "sage",
+        "alter_sense_key": "sage%1:13:00::",
+        "alter_sense": "aromatic fresh or dried grey-green leaves used widely as seasoning for meats and fowl and game etc",
+        "pun_word_ind": "het_633_9",
+        "human_text": "This fowl has been stuffed , said Tom sagely .",
+        "human_explanation": "\"Sagely\" can mean in a wise manner. \"Sage\" is a type of herb. The word \"sage\" can be found in \"sagely\". Stuffing is a type of breaded dish that can contain sage as an ingredient. A fowl is a type of bird. When it comes to cooking or preparing a bird, the edible bits put in a bird is called the stuffing. This joke plays on the word \"sage\" and its different meanings, while tying it in with stuffing.",
+        "human_keywords": [
+            "fowl",
+            "stuffed",
+            "sagely"
+        ],
+        "human_rating": 2.0
+    },
+    "het_621": {
+        "pun_word": "shuck",
+        "pun_sense_key": "shuck%2:30:00::",
+        "pun_sense": "remove the shucks from",
+        "alter_word": "suck",
+        "alter_sense_key": "suck%2:42:00::",
+        "alter_sense": "be inadequate or objectionable",
+        "pun_word_ind": "het_621_17",
+        "human_text": "When the waiter told me they were out of corn I said , ' That really shucks . '",
+        "human_explanation": "The joke is a pun. 'Shucks' sounds like 'sucks'. A shuck is an outer covering such as a husk or pod, especially the husk of an ear of corn. To say something 'sucks' generally means it is bad.",
+        "human_keywords": [
+            "waiter",
+            "out of",
+            "corn",
+            "said",
+            "That really shucks"
+        ],
+        "human_rating": 1.67
+    },
+    "het_530": {
+        "pun_word": "toll",
+        "pun_sense_key": "toll%2:39:00::",
+        "pun_sense": "ring slowly",
+        "alter_word": "tell off",
+        "alter_sense_key": "tell_off%2:32:00::",
+        "alter_sense": "reprimand",
+        "pun_word_ind": "het_530_5",
+        "human_text": "A tangled bell ringer tolled himself off .",
+        "human_explanation": "The joke is a pun. A bell can be 'tolled' by ringing it.  'Tolled' sounds like 'told' which makes it sound like the bell ringer told himself off, or scolded himself.",
+        "human_keywords": [
+            "tangled",
+            "bell ringer",
+            "tolled himself off"
+        ],
+        "human_rating": 1.33
+    },
+    "het_519": {
+        "pun_word": "guess",
+        "pun_sense_key": "guess%2:32:00::",
+        "pun_sense": "put forward, of a guess, in spite of possible refutation",
+        "alter_word": "guest",
+        "alter_sense_key": "guest%1:18:00::",
+        "alter_sense": "a visitor to whom hospitality is extended",
+        "pun_word_ind": "het_519_7",
+        "human_text": "Company ' s coming , Tom guessed .",
+        "human_explanation": "The joke is a pun.  To have company over is to have a 'guest'. Saying someone 'guessed' something sounds identical to the word 'guest'.",
+        "human_keywords": [
+            "Company' s",
+            "guessed"
+        ],
+        "human_rating": 1.5
+    },
+    "het_496": {
+        "pun_word": "illusion",
+        "pun_sense_key": "illusion%1:04:02::",
+        "pun_sense": "an illusory feat; considered magical by naive observers",
+        "alter_word": "delusion",
+        "alter_sense_key": "delusion%1:09:00::",
+        "alter_sense": "a mistaken or unfounded opinion or idea",
+        "pun_word_ind": "het_496_5",
+        "human_text": "The haughty magician had illusions of grandeur .",
+        "human_explanation": "If someone has 'illusions of grandeur', it means they have ideas of how they can become great that exceed their abilities. In this case, the magician literally has/conjures illusions of grandeur through magic tricks.",
+        "human_keywords": [
+            "haughty",
+            "magician",
+            "illusions of grandeur"
+        ],
+        "human_rating": 2.33
+    },
+    "het_345": {
+        "pun_word": "grimly",
+        "pun_sense_key": "grimly%4:02:00::",
+        "pun_sense": "in a grim implacable manner",
+        "alter_word": "grimm",
+        "alter_sense_key": "grimm%1:18:00::",
+        "alter_sense": "the older of the two Grimm brothers remembered best for their fairy stories; also author of Grimm's law describing consonant changes in Germanic languages (1785-1863)",
+        "pun_word_ind": "het_345_17",
+        "human_text": "' ' Once upon a time there was a beautiful princess , ' ' Tom began grimly .",
+        "human_explanation": "\"Once upon a time\" is an open that is commonly used in how fairy tales are started. The Grimms' Fairy Tales are a popular German collection of fairy tales. Grimly means serious or depressing. Tom is discussing a possible Grimms' Fairy tale grimly, or seriously. This joke is a play the word grim.",
+        "human_keywords": [
+            "princess",
+            "grimly"
+        ],
+        "human_rating": 1.33
+    },
+    "het_325": {
+        "pun_word": "c",
+        "pun_sense_key": "c%1:10:00::",
+        "pun_sense": "the 3rd letter of the Roman alphabet",
+        "alter_word": "sea",
+        "alter_sense_key": "sea%1:17:00::",
+        "alter_sense": "a division of an ocean or a large body of salt water partially enclosed by land",
+        "pun_word_ind": "het_325_7",
+        "human_text": "An illiterate fisherman was lost at c .",
+        "human_explanation": "The joke is a pun. Being illiterate means being unable to read, so the fisherman may have been stuck trying to read a word, and 'lost' at the letter c.  'Lost at c' sounds like the common phrase 'lost at sea' which means to be missing or have lost one's direction out in the open water.",
+        "human_keywords": [
+            "illiterate",
+            "fisherman",
+            "c"
+        ],
+        "human_rating": 2.2
+    },
+    "het_1774": {
+        "pun_word": "queue",
+        "pun_sense_key": "queue%1:14:00::",
+        "pun_sense": "a line of people or vehicles waiting for something",
+        "alter_word": "cue",
+        "alter_sense_key": "cue%1:06:00::",
+        "alter_sense": "sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards",
+        "pun_word_ind": "het_1774_16",
+        "human_text": "In a billiard hall life can be pretty rough at the wrong end of the queue .",
+        "human_explanation": "This is a play on words. The word \"queue\" means a line of people waiting for something but a \"queue\" is also a term for equipment used in billiards.",
+        "human_keywords": [
+            "billiard",
+            "wrong end",
+            "queue"
+        ],
+        "human_rating": 1.0
+    },
+    "het_1751": {
+        "pun_word": "sheepishly",
+        "pun_sense_key": "sheepishly%4:02:00::",
+        "pun_sense": "in a sheepish manner",
+        "alter_word": "sheep",
+        "alter_sense_key": "sheep%1:05:00::",
+        "alter_sense": "woolly usually horned ruminant mammal related to the goat",
+        "pun_word_ind": "het_1751_6",
+        "human_text": "You lamb ! said Tom sheepishly .",
+        "human_explanation": "A lamb is an animal. A lamb is a young sheep. \n\"Sheepishly\" is an adverb meaning in an embarrassed manner. Tom is trying to get the attention of a lamb, but is doing so sheepishly.",
+        "human_keywords": [
+            "You lamb",
+            "Said",
+            "sheepishly"
+        ],
+        "human_rating": 1.0
+    },
+    "het_1453": {
+        "pun_word": "tuna",
+        "pun_sense_key": "tuna%1:05:01::",
+        "pun_sense": "any very large marine food and game fish of the genus Thunnus; related to mackerel; chiefly of warm waters",
+        "alter_word": "tune",
+        "alter_sense_key": "tune%1:07:00::",
+        "alter_sense": "the property of producing accurately a note of a given pitch",
+        "pun_word_ind": "het_1453_8",
+        "human_text": "The whistling fisherman was always out of tuna .",
+        "human_explanation": "The joke is a play on words. The word 'tuna' sounds like 'tune'.  The fisherman who whistles is always 'out of tune' and the word tune was replaced with a word for a type of fish.",
+        "human_keywords": [
+            "whistling",
+            "fisherman",
+            "out of tuna"
+        ],
+        "human_rating": 1.0
+    },
+    "het_41": {
+        "human_text": "Desperate times call for desperate measures ."
+    },
+    "het_115": {
+        "human_text": "Look before you leap ."
+    },
+    "het_151": {
+        "human_text": "Waste not , want not ."
+    },
+    "het_225": {
+        "human_text": "Don ' t bite the hand that feeds you ."
+    },
+    "het_533": {
+        "human_text": "Old habits die hard ."
+    },
+    "het_563": {
+        "human_text": "Better go about than fall into the ditch ."
+    },
+    "het_917": {
+        "human_text": "He who hesitates is lost ."
+    },
+    "het_957": {
+        "human_text": "Don ' t make the same mistake twice ."
+    },
+    "het_999": {
+        "human_text": "Two wrongs don ' t make a right ."
+    },
+    "het_1041": {
+        "human_text": "What goes around comes around ."
+    }
+}

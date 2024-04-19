@@ -1,0 +1,1442 @@
+{
+    "gpt-3.5-turbo-1106_judge def_false CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9901,
+                "TNR": 0.2243
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8531,
+                "TNR": 0.7346
+            },
+            "Kappa": 0.2915
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9768,
+                "TNR": 0.2625
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8284,
+                "TNR": 0.7295
+            },
+            "Kappa": 0.342
+        }
+    },
+    "gpt-3.5-turbo-1106_judge def_true CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9741,
+                "TNR": 0.4882
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.837,
+                "TNR": 0.8483
+            },
+            "Kappa": 0.5108
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9567,
+                "TNR": 0.515
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.847,
+                "TNR": 0.8537
+            },
+            "Kappa": 0.5555
+        }
+    },
+    "gpt-3.5-turbo-1106_judge def_false CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 1.0,
+                "TNR": 0.0063
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.921,
+                "TNR": 0.3697
+            },
+            "Kappa": 0.0211
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 1.0,
+                "TNR": 0.012
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9335,
+                "TNR": 0.3387
+            },
+            "Kappa": 0.0361
+        }
+    },
+    "gpt-3.5-turbo-1106_judge def_true CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9988,
+                "TNR": 0.0758
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8358,
+                "TNR": 0.7346
+            },
+            "Kappa": 0.0913
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9985,
+                "TNR": 0.1142
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8377,
+                "TNR": 0.7635
+            },
+            "Kappa": 0.131
+        }
+    },
+    "gpt-3.5-turbo-1106_judge def_false CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.984,
+                "TNR": 0.4692
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9716,
+                "TNR": 0.6035
+            },
+            "Kappa": 0.817
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9459,
+                "TNR": 0.5952
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8903,
+                "TNR": 0.7255
+            },
+            "Kappa": 0.7919
+        }
+    },
+    "gpt-3.5-turbo-1106_judge def_true CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9741,
+                "TNR": 0.6114
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9383,
+                "TNR": 0.7488
+            },
+            "Kappa": 0.8112
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9351,
+                "TNR": 0.6994
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8794,
+                "TNR": 0.8056
+            },
+            "Kappa": 0.8142
+        }
+    },
+    "gpt-3.5-turbo-1106_judge def_false CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9926,
+                "TNR": 0.4281
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9222,
+                "TNR": 0.6303
+            },
+            "Kappa": 0.6564
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9985,
+                "TNR": 0.4188
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9845,
+                "TNR": 0.5271
+            },
+            "Kappa": 0.825
+        }
+    },
+    "gpt-3.5-turbo-1106_judge def_true CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9901,
+                "TNR": 0.4945
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9358,
+                "TNR": 0.7204
+            },
+            "Kappa": 0.6766
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9954,
+                "TNR": 0.491
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9413,
+                "TNR": 0.6573
+            },
+            "Kappa": 0.7366
+        }
+    },
+    "gpt-4-1106-preview_judge def_false CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9877,
+                "TNR": 0.6303
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9852,
+                "TNR": 0.684
+            },
+            "Kappa": 0.8936
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9598,
+                "TNR": 0.6212
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9397,
+                "TNR": 0.6693
+            },
+            "Kappa": 0.8837
+        }
+    },
+    "gpt-4-1106-preview_judge def_true CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9716,
+                "TNR": 0.8404
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9753,
+                "TNR": 0.8373
+            },
+            "Kappa": 0.9487
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9474,
+                "TNR": 0.8417
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9552,
+                "TNR": 0.8297
+            },
+            "Kappa": 0.9359
+        }
+    },
+    "gpt-4-1106-preview_judge def_false CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9938,
+                "TNR": 0.5592
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9617,
+                "TNR": 0.752
+            },
+            "Kappa": 0.7523
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9768,
+                "TNR": 0.5611
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9088,
+                "TNR": 0.7655
+            },
+            "Kappa": 0.7053
+        }
+    },
+    "gpt-4-1106-preview_judge def_true CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9938,
+                "TNR": 0.7267
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9852,
+                "TNR": 0.872
+            },
+            "Kappa": 0.8392
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9815,
+                "TNR": 0.7395
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.949,
+                "TNR": 0.8657
+            },
+            "Kappa": 0.8212
+        }
+    },
+    "gpt-4-1106-preview_judge def_false CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9864,
+                "TNR": 0.6983
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9864,
+                "TNR": 0.7014
+            },
+            "Kappa": 0.9518
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9629,
+                "TNR": 0.7194
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9474,
+                "TNR": 0.7555
+            },
+            "Kappa": 0.9307
+        }
+    },
+    "gpt-4-1106-preview_judge def_true CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9877,
+                "TNR": 0.7583
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9864,
+                "TNR": 0.7678
+            },
+            "Kappa": 0.9615
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9614,
+                "TNR": 0.7956
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9691,
+                "TNR": 0.7896
+            },
+            "Kappa": 0.9586
+        }
+    },
+    "gpt-4-1106-preview_judge def_false CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9914,
+                "TNR": 0.8088
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9753,
+                "TNR": 0.8815
+            },
+            "Kappa": 0.8928
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.966,
+                "TNR": 0.7435
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.932,
+                "TNR": 0.8457
+            },
+            "Kappa": 0.8535
+        }
+    },
+    "gpt-4-1106-preview_judge def_true CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9926,
+                "TNR": 0.861
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9815,
+                "TNR": 0.9147
+            },
+            "Kappa": 0.9233
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.966,
+                "TNR": 0.8357
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9583,
+                "TNR": 0.8918
+            },
+            "Kappa": 0.9181
+        }
+    },
+    "gemini-pro_judge def_false CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9975,
+                "TNR": 0.1659
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9494,
+                "TNR": 0.6714
+            },
+            "Kappa": 0.2875
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.983,
+                "TNR": 0.1924
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8501,
+                "TNR": 0.6593
+            },
+            "Kappa": 0.2965
+        }
+    },
+    "gemini-pro_judge def_true CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9951,
+                "TNR": 0.3207
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8494,
+                "TNR": 0.8863
+            },
+            "Kappa": 0.3142
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9784,
+                "TNR": 0.3347
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.7434,
+                "TNR": 0.9058
+            },
+            "Kappa": 0.2729
+        }
+    },
+    "gemini-pro_judge def_false CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 1.0,
+                "TNR": 0.019
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.6975,
+                "TNR": 0.6603
+            },
+            "Kappa": 0.0195
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 1.0,
+                "TNR": 0.02
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.7156,
+                "TNR": 0.6874
+            },
+            "Kappa": 0.0205
+        }
+    },
+    "gemini-pro_judge def_true CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9975,
+                "TNR": 0.1548
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.5222,
+                "TNR": 0.9226
+            },
+            "Kappa": 0.0699
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9938,
+                "TNR": 0.1904
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.4838,
+                "TNR": 0.9359
+            },
+            "Kappa": 0.0756
+        }
+    },
+    "gemini-pro_judge def_false CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9975,
+                "TNR": 0.3981
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9802,
+                "TNR": 0.6935
+            },
+            "Kappa": 0.6338
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9938,
+                "TNR": 0.3968
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9598,
+                "TNR": 0.6513
+            },
+            "Kappa": 0.6529
+        }
+    },
+    "gemini-pro_judge def_true CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9975,
+                "TNR": 0.4597
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9395,
+                "TNR": 0.8815
+            },
+            "Kappa": 0.5195
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9815,
+                "TNR": 0.499
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8841,
+                "TNR": 0.8477
+            },
+            "Kappa": 0.5546
+        }
+    },
+    "gemini-pro_judge def_false CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9938,
+                "TNR": 0.5656
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9605,
+                "TNR": 0.8152
+            },
+            "Kappa": 0.6994
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 1.0,
+                "TNR": 0.3988
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9722,
+                "TNR": 0.5651
+            },
+            "Kappa": 0.7442
+        }
+    },
+    "gemini-pro_judge def_true CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9938,
+                "TNR": 0.673
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9296,
+                "TNR": 0.8831
+            },
+            "Kappa": 0.7275
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9861,
+                "TNR": 0.479
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9042,
+                "TNR": 0.7234
+            },
+            "Kappa": 0.6413
+        }
+    },
+    "vicuna-7b-v1.5_judge def_false CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.984,
+                "TNR": 0.0284
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.6852,
+                "TNR": 0.4044
+            },
+            "Kappa": 0.077
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9969,
+                "TNR": 0.024
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8022,
+                "TNR": 0.4429
+            },
+            "Kappa": 0.0549
+        }
+    },
+    "vicuna-7b-v1.5_judge def_true CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9988,
+                "TNR": 0.0063
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9963,
+                "TNR": 0.0348
+            },
+            "Kappa": 0.3187
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 1.0,
+                "TNR": 0.004
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9969,
+                "TNR": 0.024
+            },
+            "Kappa": 0.2477
+        }
+    },
+    "vicuna-7b-v1.5_judge def_false CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9889,
+                "TNR": 0.0332
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8654,
+                "TNR": 0.4787
+            },
+            "Kappa": 0.0466
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9784,
+                "TNR": 0.0441
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8485,
+                "TNR": 0.4729
+            },
+            "Kappa": 0.0788
+        }
+    },
+    "vicuna-7b-v1.5_judge def_true CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9975,
+                "TNR": 0.0158
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9457,
+                "TNR": 0.1548
+            },
+            "Kappa": 0.0746
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9907,
+                "TNR": 0.01
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9274,
+                "TNR": 0.1623
+            },
+            "Kappa": 0.0695
+        }
+    },
+    "vicuna-7b-v1.5_judge def_false CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9543,
+                "TNR": 0.1596
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9765,
+                "TNR": 0.1027
+            },
+            "Kappa": 0.6407
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9428,
+                "TNR": 0.3287
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.983,
+                "TNR": 0.2244
+            },
+            "Kappa": 0.6226
+        }
+    },
+    "vicuna-7b-v1.5_judge def_true CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9864,
+                "TNR": 0.1122
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9852,
+                "TNR": 0.128
+            },
+            "Kappa": 0.7263
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9845,
+                "TNR": 0.2826
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9845,
+                "TNR": 0.3267
+            },
+            "Kappa": 0.842
+        }
+    },
+    "vicuna-7b-v1.5_judge def_false CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9543,
+                "TNR": 0.4613
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8963,
+                "TNR": 0.5782
+            },
+            "Kappa": 0.7167
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9969,
+                "TNR": 0.3407
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9892,
+                "TNR": 0.3908
+            },
+            "Kappa": 0.8791
+        }
+    },
+    "vicuna-7b-v1.5_judge def_true CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9432,
+                "TNR": 0.4787
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8914,
+                "TNR": 0.5608
+            },
+            "Kappa": 0.782
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9969,
+                "TNR": 0.3126
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9954,
+                "TNR": 0.3707
+            },
+            "Kappa": 0.8777
+        }
+    },
+    "llama-2-7b-chat_judge def_false CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9926,
+                "TNR": 0.049
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8642,
+                "TNR": 0.3428
+            },
+            "Kappa": 0.1481
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9845,
+                "TNR": 0.0421
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9011,
+                "TNR": 0.3647
+            },
+            "Kappa": 0.1734
+        }
+    },
+    "llama-2-7b-chat_judge def_true CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9938,
+                "TNR": 0.06
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.7802,
+                "TNR": 0.4265
+            },
+            "Kappa": 0.1305
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9938,
+                "TNR": 0.0561
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8671,
+                "TNR": 0.4629
+            },
+            "Kappa": 0.1397
+        }
+    },
+    "llama-2-7b-chat_judge def_false CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9889,
+                "TNR": 0.0632
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8123,
+                "TNR": 0.3918
+            },
+            "Kappa": 0.0882
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9598,
+                "TNR": 0.0701
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.7759,
+                "TNR": 0.3788
+            },
+            "Kappa": 0.1054
+        }
+    },
+    "llama-2-7b-chat_judge def_true CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9951,
+                "TNR": 0.0079
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9519,
+                "TNR": 0.0948
+            },
+            "Kappa": 0.0239
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9969,
+                "TNR": 0.008
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9753,
+                "TNR": 0.0802
+            },
+            "Kappa": 0.1065
+        }
+    },
+    "llama-2-7b-chat_judge def_false CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9975,
+                "TNR": 0.0095
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9951,
+                "TNR": 0.0142
+            },
+            "Kappa": 0.4403
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9598,
+                "TNR": 0.1743
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9938,
+                "TNR": 0.0902
+            },
+            "Kappa": 0.3173
+        }
+    },
+    "llama-2-7b-chat_judge def_true CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.7383,
+                "TNR": 0.3065
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8617,
+                "TNR": 0.2354
+            },
+            "Kappa": 0.3095
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.7697,
+                "TNR": 0.501
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9227,
+                "TNR": 0.1884
+            },
+            "Kappa": 0.208
+        }
+    },
+    "llama-2-7b-chat_judge def_false CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.937,
+                "TNR": 0.0284
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8568,
+                "TNR": 0.0869
+            },
+            "Kappa": 0.2414
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.7774,
+                "TNR": 0.0721
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.7975,
+                "TNR": 0.2004
+            },
+            "Kappa": 0.2035
+        }
+    },
+    "llama-2-7b-chat_judge def_true CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9247,
+                "TNR": 0.0758
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9605,
+                "TNR": 0.1359
+            },
+            "Kappa": 0.2977
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9397,
+                "TNR": 0.1764
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9583,
+                "TNR": 0.1924
+            },
+            "Kappa": 0.4258
+        }
+    },
+    "mistral-7b-instruct-v0.2_judge def_false CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.8667,
+                "TNR": 0.2085
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.3333,
+                "TNR": 0.7488
+            },
+            "Kappa": 0.1557
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.8733,
+                "TNR": 0.2024
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.4312,
+                "TNR": 0.7876
+            },
+            "Kappa": 0.1754
+        }
+    },
+    "mistral-7b-instruct-v0.2_judge def_true CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.542,
+                "TNR": 0.722
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.3691,
+                "TNR": 0.8468
+            },
+            "Kappa": 0.657
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.6368,
+                "TNR": 0.7114
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.4513,
+                "TNR": 0.8477
+            },
+            "Kappa": 0.6543
+        }
+    },
+    "mistral-7b-instruct-v0.2_judge def_false CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9938,
+                "TNR": 0.0964
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.5543,
+                "TNR": 0.7093
+            },
+            "Kappa": 0.0707
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9923,
+                "TNR": 0.0862
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.6801,
+                "TNR": 0.7154
+            },
+            "Kappa": 0.0801
+        }
+    },
+    "mistral-7b-instruct-v0.2_judge def_true CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9062,
+                "TNR": 0.4455
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.3148,
+                "TNR": 0.9179
+            },
+            "Kappa": 0.1573
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.8964,
+                "TNR": 0.4589
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.4219,
+                "TNR": 0.9198
+            },
+            "Kappa": 0.22
+        }
+    },
+    "mistral-7b-instruct-v0.2_judge def_false CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.684,
+                "TNR": 0.6825
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.4198,
+                "TNR": 0.842
+            },
+            "Kappa": 0.5548
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.6383,
+                "TNR": 0.7415
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.4637,
+                "TNR": 0.8958
+            },
+            "Kappa": 0.6578
+        }
+    },
+    "mistral-7b-instruct-v0.2_judge def_true CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.5691,
+                "TNR": 0.7978
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.3877,
+                "TNR": 0.8736
+            },
+            "Kappa": 0.6961
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.5533,
+                "TNR": 0.8938
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.3957,
+                "TNR": 0.9579
+            },
+            "Kappa": 0.7221
+        }
+    },
+    "mistral-7b-instruct-v0.2_judge def_false CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.7333,
+                "TNR": 0.7172
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.3037,
+                "TNR": 0.9352
+            },
+            "Kappa": 0.3457
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.7975,
+                "TNR": 0.7174
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.5209,
+                "TNR": 0.9138
+            },
+            "Kappa": 0.5358
+        }
+    },
+    "mistral-7b-instruct-v0.2_judge def_true CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.7272,
+                "TNR": 0.7567
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.1963,
+                "TNR": 0.9795
+            },
+            "Kappa": 0.2263
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.7558,
+                "TNR": 0.7976
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.3416,
+                "TNR": 0.9739
+            },
+            "Kappa": 0.385
+        }
+    },
+    "openchat-3.5-0106_judge def_false CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9481,
+                "TNR": 0.3681
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8753,
+                "TNR": 0.4882
+            },
+            "Kappa": 0.722
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9304,
+                "TNR": 0.3788
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8624,
+                "TNR": 0.499
+            },
+            "Kappa": 0.7419
+        }
+    },
+    "openchat-3.5-0106_judge def_true CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.8679,
+                "TNR": 0.6556
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8198,
+                "TNR": 0.6588
+            },
+            "Kappa": 0.8864
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.8547,
+                "TNR": 0.6473
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8423,
+                "TNR": 0.6593
+            },
+            "Kappa": 0.8915
+        }
+    },
+    "openchat-3.5-0106_judge def_false CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9963,
+                "TNR": 0.0679
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.921,
+                "TNR": 0.4771
+            },
+            "Kappa": 0.1715
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9969,
+                "TNR": 0.0942
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9304,
+                "TNR": 0.5251
+            },
+            "Kappa": 0.2091
+        }
+    },
+    "openchat-3.5-0106_judge def_true CoT_true examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9691,
+                "TNR": 0.4408
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.7988,
+                "TNR": 0.6351
+            },
+            "Kappa": 0.5551
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9583,
+                "TNR": 0.4048
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8037,
+                "TNR": 0.6593
+            },
+            "Kappa": 0.5047
+        }
+    },
+    "openchat-3.5-0106_judge def_false CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9025,
+                "TNR": 0.4645
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9358,
+                "TNR": 0.4408
+            },
+            "Kappa": 0.8799
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.8717,
+                "TNR": 0.5992
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8856,
+                "TNR": 0.5591
+            },
+            "Kappa": 0.938
+        }
+    },
+    "openchat-3.5-0106_judge def_true CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.8901,
+                "TNR": 0.5561
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8272,
+                "TNR": 0.6635
+            },
+            "Kappa": 0.8163
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.8733,
+                "TNR": 0.6673
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.813,
+                "TNR": 0.7154
+            },
+            "Kappa": 0.8811
+        }
+    },
+    "openchat-3.5-0106_judge def_false CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9407,
+                "TNR": 0.5814
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.784,
+                "TNR": 0.6983
+            },
+            "Kappa": 0.6709
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9413,
+                "TNR": 0.5671
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.8238,
+                "TNR": 0.6974
+            },
+            "Kappa": 0.731
+        }
+    },
+    "openchat-3.5-0106_judge def_true CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9123,
+                "TNR": 0.6288
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.7099,
+                "TNR": 0.7883
+            },
+            "Kappa": 0.627
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9243,
+                "TNR": 0.6212
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.7743,
+                "TNR": 0.7916
+            },
+            "Kappa": 0.6756
+        }
+    },
+    "claude-3-opus-20240229_judge def_false CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9889,
+                "TNR": 0.624
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9778,
+                "TNR": 0.733
+            },
+            "Kappa": 0.8669
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9691,
+                "TNR": 0.6132
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.932,
+                "TNR": 0.7094
+            },
+            "Kappa": 0.8392
+        }
+    },
+    "claude-3-opus-20240229_judge def_true CoT_false examples_false": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.984,
+                "TNR": 0.7172
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9679,
+                "TNR": 0.8341
+            },
+            "Kappa": 0.8656
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9753,
+                "TNR": 0.7114
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9505,
+                "TNR": 0.8457
+            },
+            "Kappa": 0.8437
+        }
+    },
+    "claude-3-opus-20240229_judge def_true CoT_false examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9815,
+                "TNR": 0.8057
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9765,
+                "TNR": 0.8468
+            },
+            "Kappa": 0.9527
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9907,
+                "TNR": 0.7495
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9876,
+                "TNR": 0.8196
+            },
+            "Kappa": 0.9289
+        }
+    },
+    "claude-3-opus-20240229_judge def_true CoT_true examples_true": {
+        "hom": {
+            "biased_to_pun": {
+                "TPR": 0.9765,
+                "TNR": 0.8673
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9469,
+                "TNR": 0.9368
+            },
+            "Kappa": 0.8976
+        },
+        "het": {
+            "biased_to_pun": {
+                "TPR": 0.9645,
+                "TNR": 0.8337
+            },
+            "biased_to_non-pun": {
+                "TPR": 0.9181,
+                "TNR": 0.9098
+            },
+            "Kappa": 0.8709
+        }
+    }
+}

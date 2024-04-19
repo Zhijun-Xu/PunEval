@@ -1,0 +1,182 @@
+{
+    "human_eval human_explanation": {
+        "hom_pun": {
+            "pun_word": 0.95,
+            "alter_word": 0.95,
+            "pun_sense": 0.95,
+            "alter_sense": 0.95
+        },
+        "het_pun": {
+            "pun_word": 0.97,
+            "alter_word": 0.97,
+            "pun_sense": 0.94,
+            "alter_sense": 0.93
+        },
+        "non_pun": {
+            "rationality": null,
+            "informativeness": null,
+            "R1I0": 0.0,
+            "R0I1": 0.0
+        }
+    },
+    "human_eval gpt-3.5-turbo-1106_explanation": {
+        "hom_pun": {
+            "pun_word": 0.88,
+            "alter_word": 0.88,
+            "pun_sense": 0.81,
+            "alter_sense": 0.81
+        },
+        "het_pun": {
+            "pun_word": 0.91,
+            "alter_word": 0.55,
+            "pun_sense": 0.82,
+            "alter_sense": 0.57
+        },
+        "non_pun": {
+            "rationality": 0.51,
+            "informativeness": 0.65,
+            "R1I0": 0.05,
+            "R0I1": 0.19
+        }
+    },
+    "human_eval gpt-4-1106-preview_explanation": {
+        "hom_pun": {
+            "pun_word": 0.98,
+            "alter_word": 0.98,
+            "pun_sense": 0.96,
+            "alter_sense": 0.93
+        },
+        "het_pun": {
+            "pun_word": 0.96,
+            "alter_word": 0.9,
+            "pun_sense": 0.93,
+            "alter_sense": 0.85
+        },
+        "non_pun": {
+            "rationality": 0.905,
+            "informativeness": 0.965,
+            "R1I0": 0.025,
+            "R0I1": 0.085
+        }
+    },
+    "human_eval gemini-pro_explanation": {
+        "hom_pun": {
+            "pun_word": 0.92,
+            "alter_word": 0.92,
+            "pun_sense": 0.87,
+            "alter_sense": 0.81
+        },
+        "het_pun": {
+            "pun_word": 0.89,
+            "alter_word": 0.42,
+            "pun_sense": 0.83,
+            "alter_sense": 0.42
+        },
+        "non_pun": {
+            "rationality": 0.635,
+            "informativeness": 0.58,
+            "R1I0": 0.18,
+            "R0I1": 0.125
+        }
+    },
+    "human_eval vicuna-7b-v1.5_explanation": {
+        "hom_pun": {
+            "pun_word": 0.71,
+            "alter_word": 0.71,
+            "pun_sense": 0.64,
+            "alter_sense": 0.59
+        },
+        "het_pun": {
+            "pun_word": 0.85,
+            "alter_word": 0.21,
+            "pun_sense": 0.81,
+            "alter_sense": 0.29
+        },
+        "non_pun": {
+            "rationality": 0.4,
+            "informativeness": 0.5,
+            "R1I0": 0.105,
+            "R0I1": 0.205
+        }
+    },
+    "human_eval llama-2-7b-chat_explanation": {
+        "hom_pun": {
+            "pun_word": 0.63,
+            "alter_word": 0.63,
+            "pun_sense": 0.45,
+            "alter_sense": 0.42
+        },
+        "het_pun": {
+            "pun_word": 0.69,
+            "alter_word": 0.11,
+            "pun_sense": 0.47,
+            "alter_sense": 0.13
+        },
+        "non_pun": {
+            "rationality": 0.2,
+            "informativeness": 0.14,
+            "R1I0": 0.18,
+            "R0I1": 0.12
+        }
+    },
+    "human_eval mistral-7b-instruct-v0.2_explanation": {
+        "hom_pun": {
+            "pun_word": 0.78,
+            "alter_word": 0.78,
+            "pun_sense": 0.73,
+            "alter_sense": 0.68
+        },
+        "het_pun": {
+            "pun_word": 0.69,
+            "alter_word": 0.22,
+            "pun_sense": 0.68,
+            "alter_sense": 0.22
+        },
+        "non_pun": {
+            "rationality": 0.77,
+            "informativeness": 0.635,
+            "R1I0": 0.19,
+            "R0I1": 0.055
+        }
+    },
+    "human_eval openchat-3.5-0106_explanation": {
+        "hom_pun": {
+            "pun_word": 0.81,
+            "alter_word": 0.81,
+            "pun_sense": 0.72,
+            "alter_sense": 0.71
+        },
+        "het_pun": {
+            "pun_word": 0.77,
+            "alter_word": 0.28,
+            "pun_sense": 0.74,
+            "alter_sense": 0.33
+        },
+        "non_pun": {
+            "rationality": 0.61,
+            "informativeness": 0.46,
+            "R1I0": 0.25,
+            "R0I1": 0.1
+        }
+    },
+    "human_eval claude-3-opus-20240229_explanation": {
+        "hom_pun": {
+            "pun_word": 0.96,
+            "alter_word": 0.96,
+            "pun_sense": 0.95,
+            "alter_sense": 0.92
+        },
+        "het_pun": {
+            "pun_word": 0.95,
+            "alter_word": 0.84,
+            "pun_sense": 0.94,
+            "alter_sense": 0.78
+        },
+        "non_pun": {
+            "rationality": 0.91,
+            "informativeness": 0.915,
+            "R1I0": 0.055,
+            "R0I1": 0.06
+        }
+    }
+}

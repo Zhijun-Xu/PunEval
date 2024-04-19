@@ -1,0 +1,98 @@
+{
+    "gpt-4-0613_eval human_vs_gpt-3.5-turbo-1106": {
+        "hom": {
+            "tie": 0.6679,
+            "human_win": 0.1716,
+            "model_win": 0.1605
+        },
+        "het": {
+            "tie": 0.4451,
+            "human_win": 0.442,
+            "model_win": 0.1128
+        }
+    },
+    "gpt-4-0613_eval human_vs_gpt-4-1106-preview": {
+        "hom": {
+            "tie": 0.7691,
+            "human_win": 0.0173,
+            "model_win": 0.2136
+        },
+        "het": {
+            "tie": 0.6847,
+            "human_win": 0.0866,
+            "model_win": 0.2287
+        }
+    },
+    "gpt-4-0613_eval human_vs_gemini-pro": {
+        "hom": {
+            "tie": 0.6531,
+            "human_win": 0.1654,
+            "model_win": 0.1815
+        },
+        "het": {
+            "tie": 0.4173,
+            "human_win": 0.4606,
+            "model_win": 0.1221
+        }
+    },
+    "gpt-4-0613_eval human_vs_vicuna-7b-v1.5": {
+        "hom": {
+            "tie": 0.3506,
+            "human_win": 0.5679,
+            "model_win": 0.0815
+        },
+        "het": {
+            "tie": 0.17,
+            "human_win": 0.779,
+            "model_win": 0.051
+        }
+    },
+    "gpt-4-0613_eval human_vs_llama-2-7b-chat": {
+        "hom": {
+            "tie": 0.3074,
+            "human_win": 0.5852,
+            "model_win": 0.1074
+        },
+        "het": {
+            "tie": 0.0958,
+            "human_win": 0.8408,
+            "model_win": 0.0634
+        }
+    },
+    "gpt-4-0613_eval human_vs_mistral-7b-instruct-v0.2": {
+        "hom": {
+            "tie": 0.3802,
+            "human_win": 0.5235,
+            "model_win": 0.0963
+        },
+        "het": {
+            "tie": 0.187,
+            "human_win": 0.7589,
+            "model_win": 0.0541
+        }
+    },
+    "gpt-4-0613_eval human_vs_openchat-3.5-0106": {
+        "hom": {
+            "tie": 0.5049,
+            "human_win": 0.3383,
+            "model_win": 0.1568
+        },
+        "het": {
+            "tie": 0.2396,
+            "human_win": 0.6893,
+            "model_win": 0.0711
+        }
+    },
+    "gpt-4-0613_eval human_vs_claude-3-opus-20240229": {
+        "hom": {
+            "tie": 0.7333,
+            "human_win": 0.0407,
+            "model_win": 0.2259
+        },
+        "het": {
+            "tie": 0.6445,
+            "human_win": 0.1206,
+            "model_win": 0.2349
+        }
+    }
+}

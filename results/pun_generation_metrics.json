@@ -1,0 +1,506 @@
+{
+    "human_text": {
+        "hom": {
+            "avg_len": 12.0,
+            "avg_ambiguity": 0.2246,
+            "avg_distinctiveness": 0.1291,
+            "avg_surprise": -0.0692,
+            "avg_unusualness": 5.5692,
+            "avg_incorp_pun": 0.9963,
+            "avg_incorp_one_pun": 0.9901,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 1.0,
+            "avg_success": 0.9642,
+            "avg_strict_success": 0.0
+        },
+        "het": {
+            "avg_len": 12.37,
+            "avg_ambiguity": 0.1853,
+            "avg_distinctiveness": 0.2558,
+            "avg_surprise": 0.3229,
+            "avg_unusualness": 5.8512,
+            "avg_incorp_pun": 0.9907,
+            "avg_incorp_one_pun": 0.9845,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 1.0,
+            "avg_success": 0.9304,
+            "avg_strict_success": 0.0
+        }
+    },
+    "gpt-3.5-turbo-1106_text0": {
+        "hom": {
+            "avg_len": 11.38,
+            "avg_ambiguity": 0.1948,
+            "avg_distinctiveness": 0.0365,
+            "avg_surprise": -0.6403,
+            "avg_unusualness": 4.6064,
+            "avg_incorp_pun": 0.9963,
+            "avg_incorp_one_pun": 0.9827,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0788,
+            "avg_success": 0.021,
+            "avg_strict_success": 0.021
+        },
+        "het": {
+            "avg_len": 11.76,
+            "avg_ambiguity": 0.1132,
+            "avg_distinctiveness": 0.0705,
+            "avg_surprise": -0.7344,
+            "avg_unusualness": 4.5882,
+            "avg_incorp_pun": 0.9938,
+            "avg_incorp_one_pun": 0.9784,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0644,
+            "avg_success": 0.0124,
+            "avg_strict_success": 0.0124
+        }
+    },
+    "gpt-3.5-turbo-1106_text1": {
+        "hom": {
+            "avg_len": 14.9,
+            "avg_ambiguity": 0.2195,
+            "avg_distinctiveness": 0.0637,
+            "avg_surprise": -0.2329,
+            "avg_unusualness": 4.8936,
+            "avg_incorp_pun": 0.8753,
+            "avg_incorp_one_pun": 0.7136,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0978,
+            "avg_success": 0.5889,
+            "avg_strict_success": 0.5889
+        },
+        "het": {
+            "avg_len": 12.26,
+            "avg_ambiguity": 0.2234,
+            "avg_distinctiveness": 0.0733,
+            "avg_surprise": 0.0721,
+            "avg_unusualness": 5.3832,
+            "avg_incorp_pun": 0.966,
+            "avg_incorp_one_pun": 0.5209,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0859,
+            "avg_success": 0.4405,
+            "avg_strict_success": 0.4374
+        }
+    },
+    "gpt-3.5-turbo-1106_text2": {
+        "hom": {
+            "avg_len": 12.22,
+            "avg_ambiguity": 0.217,
+            "avg_distinctiveness": 0.0787,
+            "avg_surprise": -0.0761,
+            "avg_unusualness": 5.5059,
+            "avg_incorp_pun": 0.9926,
+            "avg_incorp_one_pun": 0.8556,
+            "avg_incorp_contexts": 0.9522,
+            "avg_overlap": 0.1834,
+            "avg_success": 0.742,
+            "avg_strict_success": 0.6802
+        },
+        "het": {
+            "avg_len": 12.03,
+            "avg_ambiguity": 0.216,
+            "avg_distinctiveness": 0.1634,
+            "avg_surprise": 0.2053,
+            "avg_unusualness": 5.7671,
+            "avg_incorp_pun": 0.9876,
+            "avg_incorp_one_pun": 0.5425,
+            "avg_incorp_contexts": 0.9367,
+            "avg_overlap": 0.1431,
+            "avg_success": 0.4637,
+            "avg_strict_success": 0.4297
+        }
+    },
+    "gpt-4-1106-preview_text1": {
+        "hom": {
+            "avg_len": 13.96,
+            "avg_ambiguity": 0.2247,
+            "avg_distinctiveness": 0.0474,
+            "avg_surprise": -0.0269,
+            "avg_unusualness": 5.2766,
+            "avg_incorp_pun": 0.9802,
+            "avg_incorp_one_pun": 0.8901,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0926,
+            "avg_success": 0.7901,
+            "avg_strict_success": 0.7901
+        },
+        "het": {
+            "avg_len": 12.22,
+            "avg_ambiguity": 0.2208,
+            "avg_distinctiveness": 0.0977,
+            "avg_surprise": 0.1205,
+            "avg_unusualness": 5.7045,
+            "avg_incorp_pun": 0.9799,
+            "avg_incorp_one_pun": 0.847,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.08,
+            "avg_success": 0.7218,
+            "avg_strict_success": 0.7218
+        }
+    },
+    "gpt-4-1106-preview_text2": {
+        "hom": {
+            "avg_len": 13.01,
+            "avg_ambiguity": 0.2169,
+            "avg_distinctiveness": 0.0815,
+            "avg_surprise": -0.2174,
+            "avg_unusualness": 5.4715,
+            "avg_incorp_pun": 0.9951,
+            "avg_incorp_one_pun": 0.8802,
+            "avg_incorp_contexts": 0.9764,
+            "avg_overlap": 0.1888,
+            "avg_success": 0.8407,
+            "avg_strict_success": 0.7753
+        },
+        "het": {
+            "avg_len": 11.88,
+            "avg_ambiguity": 0.1992,
+            "avg_distinctiveness": 0.1684,
+            "avg_surprise": 0.2845,
+            "avg_unusualness": 5.8005,
+            "avg_incorp_pun": 0.983,
+            "avg_incorp_one_pun": 0.7944,
+            "avg_incorp_contexts": 0.9689,
+            "avg_overlap": 0.1628,
+            "avg_success": 0.6924,
+            "avg_strict_success": 0.6337
+        }
+    },
+    "gemini-pro_text1": {
+        "hom": {
+            "avg_len": 13.13,
+            "avg_ambiguity": 0.2224,
+            "avg_distinctiveness": 0.0376,
+            "avg_surprise": -0.203,
+            "avg_unusualness": 5.2255,
+            "avg_incorp_pun": 0.9642,
+            "avg_incorp_one_pun": 0.6802,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0922,
+            "avg_success": 0.4642,
+            "avg_strict_success": 0.4642
+        },
+        "het": {
+            "avg_len": 10.46,
+            "avg_ambiguity": 0.2406,
+            "avg_distinctiveness": 0.0721,
+            "avg_surprise": -0.0756,
+            "avg_unusualness": 5.8053,
+            "avg_incorp_pun": 0.9845,
+            "avg_incorp_one_pun": 0.3833,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0802,
+            "avg_success": 0.2921,
+            "avg_strict_success": 0.2906
+        }
+    },
+    "gemini-pro_text2": {
+        "hom": {
+            "avg_len": 11.15,
+            "avg_ambiguity": 0.2208,
+            "avg_distinctiveness": 0.079,
+            "avg_surprise": -0.2003,
+            "avg_unusualness": 5.6905,
+            "avg_incorp_pun": 0.9951,
+            "avg_incorp_one_pun": 0.6889,
+            "avg_incorp_contexts": 0.9456,
+            "avg_overlap": 0.1829,
+            "avg_success": 0.6086,
+            "avg_strict_success": 0.558
+        },
+        "het": {
+            "avg_len": 10.41,
+            "avg_ambiguity": 0.1981,
+            "avg_distinctiveness": 0.1488,
+            "avg_surprise": 0.1421,
+            "avg_unusualness": 6.0668,
+            "avg_incorp_pun": 0.9845,
+            "avg_incorp_one_pun": 0.5811,
+            "avg_incorp_contexts": 0.9239,
+            "avg_overlap": 0.1395,
+            "avg_success": 0.4575,
+            "avg_strict_success": 0.425
+        }
+    },
+    "vicuna-7b-v1.5_text1": {
+        "hom": {
+            "avg_len": 15.89,
+            "avg_ambiguity": 0.2227,
+            "avg_distinctiveness": 0.0616,
+            "avg_surprise": -0.2488,
+            "avg_unusualness": 4.7341,
+            "avg_incorp_pun": 0.9679,
+            "avg_incorp_one_pun": 0.6901,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0819,
+            "avg_success": 0.1877,
+            "avg_strict_success": 0.1877
+        },
+        "het": {
+            "avg_len": 15.29,
+            "avg_ambiguity": 0.2111,
+            "avg_distinctiveness": 0.0881,
+            "avg_surprise": -0.2721,
+            "avg_unusualness": 5.0302,
+            "avg_incorp_pun": 0.983,
+            "avg_incorp_one_pun": 0.3771,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0729,
+            "avg_success": 0.1901,
+            "avg_strict_success": 0.1901
+        }
+    },
+    "vicuna-7b-v1.5_text2": {
+        "hom": {
+            "avg_len": 15.1,
+            "avg_ambiguity": 0.1991,
+            "avg_distinctiveness": 0.0766,
+            "avg_surprise": -0.1806,
+            "avg_unusualness": 5.1716,
+            "avg_incorp_pun": 0.984,
+            "avg_incorp_one_pun": 0.7815,
+            "avg_incorp_contexts": 0.8848,
+            "avg_overlap": 0.1348,
+            "avg_success": 0.5272,
+            "avg_strict_success": 0.5
+        },
+        "het": {
+            "avg_len": 15.77,
+            "avg_ambiguity": 0.1824,
+            "avg_distinctiveness": 0.2375,
+            "avg_surprise": 0.0154,
+            "avg_unusualness": 5.3241,
+            "avg_incorp_pun": 0.9876,
+            "avg_incorp_one_pun": 0.4529,
+            "avg_incorp_contexts": 0.8697,
+            "avg_overlap": 0.1128,
+            "avg_success": 0.2828,
+            "avg_strict_success": 0.2736
+        }
+    },
+    "llama-2-7b-chat_text1": {
+        "hom": {
+            "avg_len": 17.65,
+            "avg_ambiguity": 0.2058,
+            "avg_distinctiveness": 0.0334,
+            "avg_surprise": -0.1296,
+            "avg_unusualness": 4.9223,
+            "avg_incorp_pun": 0.658,
+            "avg_incorp_one_pun": 0.4247,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0729,
+            "avg_success": 0.1272,
+            "avg_strict_success": 0.1272
+        },
+        "het": {
+            "avg_len": 14.32,
+            "avg_ambiguity": 0.168,
+            "avg_distinctiveness": 0.1548,
+            "avg_surprise": -0.0292,
+            "avg_unusualness": 5.5593,
+            "avg_incorp_pun": 0.4606,
+            "avg_incorp_one_pun": 0.1453,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0611,
+            "avg_success": 0.0819,
+            "avg_strict_success": 0.0819
+        }
+    },
+    "llama-2-7b-chat_text2": {
+        "hom": {
+            "avg_len": 17.39,
+            "avg_ambiguity": 0.2052,
+            "avg_distinctiveness": 0.1074,
+            "avg_surprise": -0.0932,
+            "avg_unusualness": 5.2542,
+            "avg_incorp_pun": 0.8741,
+            "avg_incorp_one_pun": 0.6049,
+            "avg_incorp_contexts": 0.7455,
+            "avg_overlap": 0.114,
+            "avg_success": 0.3975,
+            "avg_strict_success": 0.3864
+        },
+        "het": {
+            "avg_len": 17.49,
+            "avg_ambiguity": 0.18,
+            "avg_distinctiveness": 0.2348,
+            "avg_surprise": -0.0658,
+            "avg_unusualness": 5.3981,
+            "avg_incorp_pun": 0.9057,
+            "avg_incorp_one_pun": 0.3524,
+            "avg_incorp_contexts": 0.7559,
+            "avg_overlap": 0.0969,
+            "avg_success": 0.2241,
+            "avg_strict_success": 0.2226
+        }
+    },
+    "mistral-7b-instruct-v0.2_text1": {
+        "hom": {
+            "avg_len": 18.45,
+            "avg_ambiguity": 0.1932,
+            "avg_distinctiveness": 0.0722,
+            "avg_surprise": -0.2389,
+            "avg_unusualness": 5.2996,
+            "avg_incorp_pun": 0.9741,
+            "avg_incorp_one_pun": 0.5827,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0811,
+            "avg_success": 0.3901,
+            "avg_strict_success": 0.3901
+        },
+        "het": {
+            "avg_len": 14.55,
+            "avg_ambiguity": 0.2114,
+            "avg_distinctiveness": 0.1511,
+            "avg_surprise": -0.1564,
+            "avg_unusualness": 5.8437,
+            "avg_incorp_pun": 0.9722,
+            "avg_incorp_one_pun": 0.3431,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0683,
+            "avg_success": 0.238,
+            "avg_strict_success": 0.238
+        }
+    },
+    "mistral-7b-instruct-v0.2_text2": {
+        "hom": {
+            "avg_len": 16.62,
+            "avg_ambiguity": 0.1861,
+            "avg_distinctiveness": 0.1145,
+            "avg_surprise": -0.2009,
+            "avg_unusualness": 5.3947,
+            "avg_incorp_pun": 0.9877,
+            "avg_incorp_one_pun": 0.616,
+            "avg_incorp_contexts": 0.9236,
+            "avg_overlap": 0.1139,
+            "avg_success": 0.5,
+            "avg_strict_success": 0.4951
+        },
+        "het": {
+            "avg_len": 15.41,
+            "avg_ambiguity": 0.1755,
+            "avg_distinctiveness": 0.213,
+            "avg_surprise": 0.1078,
+            "avg_unusualness": 5.6295,
+            "avg_incorp_pun": 0.9892,
+            "avg_incorp_one_pun": 0.3725,
+            "avg_incorp_contexts": 0.9174,
+            "avg_overlap": 0.1103,
+            "avg_success": 0.289,
+            "avg_strict_success": 0.2859
+        }
+    },
+    "openchat-3.5-0106_text1": {
+        "hom": {
+            "avg_len": 16.41,
+            "avg_ambiguity": 0.2082,
+            "avg_distinctiveness": 0.058,
+            "avg_surprise": -0.168,
+            "avg_unusualness": 5.0549,
+            "avg_incorp_pun": 0.9765,
+            "avg_incorp_one_pun": 0.5494,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.092,
+            "avg_success": 0.3284,
+            "avg_strict_success": 0.3284
+        },
+        "het": {
+            "avg_len": 13.62,
+            "avg_ambiguity": 0.2071,
+            "avg_distinctiveness": 0.1356,
+            "avg_surprise": -0.261,
+            "avg_unusualness": 5.5112,
+            "avg_incorp_pun": 0.9845,
+            "avg_incorp_one_pun": 0.2705,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0808,
+            "avg_success": 0.2009,
+            "avg_strict_success": 0.2009
+        }
+    },
+    "openchat-3.5-0106_text2": {
+        "hom": {
+            "avg_len": 15.6,
+            "avg_ambiguity": 0.1957,
+            "avg_distinctiveness": 0.0905,
+            "avg_surprise": -0.133,
+            "avg_unusualness": 5.3523,
+            "avg_incorp_pun": 0.9901,
+            "avg_incorp_one_pun": 0.6358,
+            "avg_incorp_contexts": 0.9602,
+            "avg_overlap": 0.1315,
+            "avg_success": 0.5086,
+            "avg_strict_success": 0.4975
+        },
+        "het": {
+            "avg_len": 14.24,
+            "avg_ambiguity": 0.1655,
+            "avg_distinctiveness": 0.2352,
+            "avg_surprise": 0.0127,
+            "avg_unusualness": 5.5161,
+            "avg_incorp_pun": 0.9954,
+            "avg_incorp_one_pun": 0.3524,
+            "avg_incorp_contexts": 0.9382,
+            "avg_overlap": 0.1196,
+            "avg_success": 0.2921,
+            "avg_strict_success": 0.2844
+        }
+    },
+    "claude-3-opus-20240229_text1": {
+        "hom": {
+            "avg_len": 11.24,
+            "avg_ambiguity": 0.211,
+            "avg_distinctiveness": 0.0727,
+            "avg_surprise": -0.1501,
+            "avg_unusualness": 5.6868,
+            "avg_incorp_pun": 0.9247,
+            "avg_incorp_one_pun": 0.8926,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0989,
+            "avg_success": 0.6938,
+            "avg_strict_success": 0.6938
+        },
+        "het": {
+            "avg_len": 9.35,
+            "avg_ambiguity": 0.2001,
+            "avg_distinctiveness": 0.2077,
+            "avg_surprise": 0.0964,
+            "avg_unusualness": 6.578,
+            "avg_incorp_pun": 0.9892,
+            "avg_incorp_one_pun": 0.915,
+            "avg_incorp_contexts": null,
+            "avg_overlap": 0.0807,
+            "avg_success": 0.7233,
+            "avg_strict_success": 0.7218
+        }
+    },
+    "claude-3-opus-20240229_text2": {
+        "hom": {
+            "avg_len": 9.9,
+            "avg_ambiguity": 0.2367,
+            "avg_distinctiveness": 0.0811,
+            "avg_surprise": -0.131,
+            "avg_unusualness": 5.8319,
+            "avg_incorp_pun": 0.9975,
+            "avg_incorp_one_pun": 0.9074,
+            "avg_incorp_contexts": 0.9719,
+            "avg_overlap": 0.2412,
+            "avg_success": 0.8296,
+            "avg_strict_success": 0.7025
+        },
+        "het": {
+            "avg_len": 9.57,
+            "avg_ambiguity": 0.2062,
+            "avg_distinctiveness": 0.185,
+            "avg_surprise": 0.2747,
+            "avg_unusualness": 6.2025,
+            "avg_incorp_pun": 0.9923,
+            "avg_incorp_one_pun": 0.8485,
+            "avg_incorp_contexts": 0.9727,
+            "avg_overlap": 0.1936,
+            "avg_success": 0.7465,
+            "avg_strict_success": 0.6631
+        }
+    }
+}

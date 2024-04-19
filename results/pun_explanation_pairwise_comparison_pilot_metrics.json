@@ -1,0 +1,10 @@
+{
+    "human_vs_gpt-4-1106-preview": {
+        "consistency_with_human": 0.87,
+        "consistency_between_swap": 0.855
+    },
+    "human_vs_gpt-3.5-turbo-1106": {
+        "consistency_with_human": 0.895,
+        "consistency_between_swap": 0.825
+    }
+}

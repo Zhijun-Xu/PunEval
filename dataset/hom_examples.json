@@ -1,0 +1,205 @@
+{
+    "hom_705": {
+        "pun_word": "toll",
+        "pun_sense_key": "toll%1:21:00::",
+        "pun_sense": "a fee levied for the use of roads or bridges (used for maintenance)",
+        "alter_word": "toll",
+        "alter_sense_key": "toll%1:07:01::",
+        "alter_sense": "value measured by what must be given or done or undergone to obtain something",
+        "pun_word_ind": "hom_705_9",
+        "human_text": "Driving on so many turnpikes was taking its toll .",
+        "human_explanation": "When someone is \"taking its toll\" it means that something is having a bad effect on someone. A toll is a charge payable for permission to use a particular bridge or road. The word \"toll\" is being used in two different ways here.",
+        "human_keywords": [
+            "Driving",
+            "many",
+            "turnpikes",
+            "taking its toll"
+        ],
+        "human_rating": 1.6
+    },
+    "hom_488": {
+        "pun_word": "bore",
+        "pun_sense_key": "bore%2:35:00::",
+        "pun_sense": "make a hole, especially with a pointed power or hand tool",
+        "alter_word": "bore",
+        "alter_sense_key": "bore%2:37:00::",
+        "alter_sense": "cause to be bored",
+        "pun_word_ind": "hom_488_9",
+        "human_text": "A carpenter sat on his drill and was bored to tears .",
+        "human_explanation": "To bore is make a hole into something. A drill can bore holes into a piece of wood. To be bored is to feel weary because one lacks interest in what one is doing at the moment. This is a play on the word bore.",
+        "human_keywords": [
+            "carpenter",
+            "sat",
+            "drill",
+            "bored to tears"
+        ],
+        "human_rating": 1.33
+    },
+    "hom_4": {
+        "pun_word": "entrenched",
+        "pun_sense_key": "entrenched%5:00:00:invulnerable:00",
+        "pun_sense": "dug in",
+        "alter_word": "entrenched",
+        "alter_sense_key": "entrenched%5:00:00:established:00",
+        "alter_sense": "established firmly and securely",
+        "pun_word_ind": "hom_4_5",
+        "human_text": "A ditch digger was entrenched in his career .",
+        "human_explanation": "This is a pun on the word \"entrenched\". The ditch digger was very dedicated, or entrenched, in his career. A ditch is a trench on the side of a road. If you are in the ditch, you are physically entrenched in it. ",
+        "human_keywords": [
+            "ditch digger",
+            "entrenched",
+            "career"
+        ],
+        "human_rating": 1.6
+    },
+    "hom_1556": {
+        "pun_word": "foil",
+        "pun_sense_key": "foil%1:06:01::",
+        "pun_sense": "a piece of thin and flexible sheet metal",
+        "alter_word": "foil",
+        "alter_sense_key": "foil%2:41:00::",
+        "alter_sense": "hinder or prevent (the efforts, plans, or desires) of",
+        "pun_word_ind": "hom_1556_7",
+        "human_text": "One leftover said to another ' foiled again . '",
+        "human_explanation": "The joke is a pun. 'Foiled again' is a phrase that is usually used to mean 'thwarted' or plans were 'undermined' by someone.  Aluminum foil is generally used to wrap leftovers that are put in the fridge.",
+        "human_keywords": [
+            "leftover",
+            "foiled",
+            "again"
+        ],
+        "human_rating": 2.0
+    },
+    "hom_1477": {
+        "pun_word": "tack",
+        "pun_sense_key": "tack%1:06:01::",
+        "pun_sense": "gear for a horse",
+        "alter_word": "tack",
+        "alter_sense_key": "tack%1:15:00::",
+        "alter_sense": "the heading or position of a vessel relative to the trim of its sails",
+        "pun_word_ind": "hom_1477_15",
+        "human_text": "When he switched from horses to sailing , his life took on a new tack .",
+        "human_explanation": "It's not common knowledge that a tack is a piece of equipment used on both horses and sail boats.",
+        "human_keywords": [
+            "horses",
+            "sailing",
+            "new tack"
+        ],
+        "human_rating": 1.0
+    },
+    "hom_1404": {
+        "pun_word": "flap",
+        "pun_sense_key": "flap%1:26:00::",
+        "pun_sense": "an excited state of agitation",
+        "alter_word": "flap",
+        "alter_sense_key": "flap%1:06:00::",
+        "alter_sense": "any broad thin and limber covering attached at one edge; hangs loose or projects freely",
+        "pun_word_ind": "hom_1404_15",
+        "human_text": "He had trouble in his new job making tents and got himself into a flap .",
+        "human_explanation": "To get in a flap means to get upset, or unhappy about something. Flaps can also refer to cloth that is hinged on one side that cover an opening. A tent is a shelter made from fabric, and has flaps. This joke is playing on the word \"flaps\" and its different meanings.",
+        "human_keywords": [
+            "trouble",
+            "tents",
+            "flap"
+        ],
+        "human_rating": 1.5
+    },
+    "hom_1356": {
+        "pun_word": "pupil",
+        "pun_sense_key": "pupil%1:18:00::",
+        "pun_sense": "a learner who is enrolled in an educational institution",
+        "alter_word": "pupil",
+        "alter_sense_key": "pupil%1:08:00::",
+        "alter_sense": "the contractile aperture in the center of the iris of the eye; resembles a large black dot",
+        "pun_word_ind": "hom_1356_15",
+        "human_text": "There was once a cross - eyed teacher who couldn ' t control his pupils .",
+        "human_explanation": "A teacher has students that they teach. The word pupils can refer to students. It can also refer to the circular center of the iris of the eye. The teacher has crossed eyes. \"The teacher cannot control their pupils\" which can mean that they cannot control their students, or they cannot control the center of their eyes. ",
+        "human_keywords": [
+            "cross-eyed",
+            "teacher",
+            "pupils"
+        ],
+        "human_rating": 2.0
+    },
+    "hom_1283": {
+        "pun_word": "cold",
+        "pun_sense_key": "cold%3:00:01::",
+        "pun_sense": "having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration",
+        "alter_word": "cold",
+        "alter_sense_key": "cold%5:00:00:unconscious:00",
+        "alter_sense": "unconscious from a blow or shock or intoxication",
+        "pun_word_ind": "hom_1283_15",
+        "human_text": "He was hit on the head during a hail storm and was knocked out cold .",
+        "human_explanation": "The joke is a pun on the words 'out cold'.  Hail is a meteoroligcal effect of ice forming in the air and pelting the earth and typically only happens in cold weather.  Getting hit in the head could knock some one unconscious, which could also be called being 'knocked out cold'.",
+        "human_keywords": [
+            "hit",
+            "hailstrom",
+            "knocked out cold"
+        ],
+        "human_rating": 1.4
+    },
+    "hom_1182": {
+        "pun_word": "fit",
+        "pun_sense_key": "fit%2:42:02::",
+        "pun_sense": "be the right size or shape; fit correctly or as desired",
+        "alter_word": "fit in",
+        "alter_sense_key": "fit_in%2:42:00::",
+        "alter_sense": "go together",
+        "pun_word_ind": "hom_1182_18",
+        "human_text": "A man tried working in a shoe store , but he just couldn ' t seem to fit in .",
+        "human_explanation": "The joke is a play on words. To 'fit in' could mean both to grow accustommed to a new environment and feel accepted.  One could also try to 'fit in' some shoes to see if the size is correct.",
+        "human_keywords": [
+            "working",
+            "shoe store",
+            "couldn' t",
+            "fit in"
+        ],
+        "human_rating": 1.5
+    },
+    "hom_1162": {
+        "pun_word": "lumber",
+        "pun_sense_key": "lumber%2:38:00::",
+        "pun_sense": "move heavily or clumsily",
+        "alter_word": "lumber",
+        "alter_sense_key": "lumber%2:35:00::",
+        "alter_sense": "cut lumber, as in woods and forests",
+        "pun_word_ind": "hom_1162_8",
+        "human_text": "Old carpenters never die , they just lumber around .",
+        "human_explanation": "Carpenters make and repair wooden objects and structures. Lumber is a type of wood. Lumber also means to move in a slow, heavy, awkward way. Carpenters lumber around.",
+        "human_keywords": [
+            "carpenters",
+            "die",
+            "lumber around"
+        ],
+        "human_rating": 1.33
+    },
+    "hom_111": {
+        "human_text": "Garbage in , garbage out ."
+    },
+    "hom_158": {
+        "human_text": "Better safe than sorry ."
+    },
+    "hom_436": {
+        "human_text": "What you sow is what you reap ."
+    },
+    "hom_533": {
+        "human_text": "Don ' t kill the goose that lays the golden eggs ."
+    },
+    "hom_639": {
+        "human_text": "When all is said and done , more is said then done ."
+    },
+    "hom_750": {
+        "human_text": "Don ' t put all your eggs in one basket ."
+    },
+    "hom_846": {
+        "human_text": "Don ' t judge a book by its cover ."
+    },
+    "hom_1167": {
+        "human_text": "Nothing ventured , nothing gained ."
+    },
+    "hom_1464": {
+        "human_text": "Monkey see , monkey do ."
+    },
+    "hom_1623": {
+        "human_text": "As you sow , so you reap ."
+    }
+}
