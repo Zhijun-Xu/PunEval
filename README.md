@@ -28,13 +28,12 @@ We have placed our experiment results in the "results" folder, which includes th
 ## Citation
 If you find this study useful for your methods, please cite the following paper:
 ```
-@misc{xu2024a,
-      title={"A good pun is its own reword": Can Large Language Models Understand Puns?}, 
-      author={Zhijun Xu and Siyu Yuan and Lingjie Chen and Deqing Yang},
-      year={2024},
-      eprint={2404.13599},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{xu2024good,
+  title={“A good pun is its own reword”: Can Large Language Models Understand Puns?},
+  author={Xu, Zhijun and Yuan, Siyu and Chen, Lingjie and Yang, Deqing},
+  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  pages={11766--11782},
+  year={2024}
 }
 ```
 
